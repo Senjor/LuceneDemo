@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <lunece.version>4.10.2</lunece.version>
+        <lunece.version>8.5.0</lunece.version>
     </properties>
 
 
